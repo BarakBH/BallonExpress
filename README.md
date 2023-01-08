@@ -1,2 +1,2 @@
 # BalloonExpress
-College Final Project - React Web Application for Ballon services.
+College Final Project - React Web Application for Ballon services store.
