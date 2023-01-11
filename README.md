@@ -1,2 +1,2 @@
 # BalloonExpress
-College Final Project - React Web Application for Ballon services store.
+College Final Project - Angular & NodeJS with MongoDB Web Application for Balloon services store.
