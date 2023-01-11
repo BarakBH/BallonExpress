@@ -3,7 +3,7 @@ const app = express();
 const morgan = require('morgan');
 const mongoose = require('mongoose');
 
-mongoose.connect(`mongodb+srv://BarakAdmin:Rv7O4RAZ51Zzhxig@articlesapi.j1pmeai.mongodb.net/?retryWrites=true&w=majority` , {
+mongoose.connect(`mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@articlesapi.j1pmeai.mongodb.net/?retryWrites=true&w=majority` , {
   useUnifiedTopology: true,
   useNewUrlParser: true
 });
