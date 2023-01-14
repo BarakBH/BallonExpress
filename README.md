@@ -2,3 +2,5 @@ College Final Project - React & NodeJS with MongoDB Web Application for Balloon 
 
 We offers Web Application for all those in need for balloon services ! 
 Get ready for that celebration !
+
+IMPORTANT - THIS REPOSITORY IS ONLY FOR OUR ISSUES SUBMITS.
