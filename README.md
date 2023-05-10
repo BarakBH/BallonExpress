@@ -1,6 +1,11 @@
-College Final Project - React & NodeJS with MongoDB Web Application for Balloon services store.
+# Balloon Express - Software Engineer Graduation Project
 
-We offers Web Application for all those in need for balloon services ! 
-Get ready for that celebration !
+# This is our JOURNAL\ISSUES for the project
+## You can find this project CODE REPOSITROY at 
 
-IMPORTANT - THIS REPOSITORY IS ONLY FOR OUR ISSUES SUBMITS.
+# React & NodeJS with MongoDB Web Application for Balloon services store 
+
+
+## This project covers all the needs for a buisness, There is a Completly functional API that serves both Client and Admin Dashboard
+## As for our Backend, The server is built by MVC, with alot of work to make it secure and the DB secure
+## As for our Front, both Dashboard and Store design are stylish and functional, with a focus on clean and effective design principles
